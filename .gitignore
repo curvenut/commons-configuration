@@ -1,5 +1,13 @@
 *.class
-
+*.iml
+/.idea/
+/target/
+.env
+.DS_Store
+*.iws
+*.ipr
+*.classpath
+*.project
 # Package Files #
 *.jar
 *.war
